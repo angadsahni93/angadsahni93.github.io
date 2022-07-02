@@ -2,4 +2,4 @@
 
 ## How are you?
 
-[My Twitter] (https://twitter.com/AngadSahni9)
+[My Twitter](https://twitter.com/AngadSahni9)
