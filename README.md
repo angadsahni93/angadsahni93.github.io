@@ -3,7 +3,7 @@
 
 # Angad Sahni
 PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/), University of Reading. <br>
-
+[My CV](CV.pdf)
 
 ## How are you?
 
