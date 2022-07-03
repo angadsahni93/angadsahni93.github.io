@@ -1,8 +1,7 @@
 ![](intro.png)
-**Procession of Ganesha.**   <br />
-*(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*
+#### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*
 
-## Hello.
+# Angad Sahni
 
 ## How are you?
 
