@@ -1,5 +1,6 @@
 ![](intro.png)
-
+Procession of Ganesha.
+(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.
 
 ## Hello.
 
