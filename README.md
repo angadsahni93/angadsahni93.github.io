@@ -10,7 +10,7 @@
 Neuroscience PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/),<br> 
 University of Reading.<br>
 **Started:** September, 2021 <br>
-**Completed:** 
+**Completed:** - 
 <br>
 <br>
 
