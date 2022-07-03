@@ -1,5 +1,5 @@
 ![](intro.png)
-<p>*Procession of Ganesha.* 
+<p>**Procession of Ganesha.** 
 <br>
 *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*</p>
 
