@@ -3,13 +3,17 @@
 <br>
 <br>
 
-
 # Angad Sahni <br> 
-### [Curriculum Vitae](CV.pdf)
-- First-year PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/), University of Reading. <br>
+### [Curriculum Vitae](CV.pdf) 
 <br>
+First-year PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/), University of Reading. 
+<br> <br> 
+
+## Contents <br>
+- Reward vs. Effort Learning Task <br>
+- Experience Sample Methodology (ESM) Study
 
  
-## How are you?
+# How are you?
 
 [My Twitter](https://twitter.com/AngadSahni9)
