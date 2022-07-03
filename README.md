@@ -2,9 +2,10 @@
 ###### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*
 <br>
 
-# Angad Sahni <br> 
-### [Curriculum Vitae](CV.pdf) 
-<br>
+# Angad Sahni <br>
+### [Curriculum Vitae](CV.pdf) <br>
+**Email:** a.sahni@pgr.reading.ac.uk <br> 
+
 First-year PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/), University of Reading. 
 <br> <br> 
 
