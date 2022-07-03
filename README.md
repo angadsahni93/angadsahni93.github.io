@@ -13,7 +13,3 @@ First-year PhD student in the [Neuroscience of Reward Group (NRG)](https://www.n
 - [Reward vs. Effort Learning Task](task.md) <br>
 - Experience Sample Methodology (ESM) Study
 
- 
-# How are you?
-
-[My Twitter](https://twitter.com/AngadSahni9)
