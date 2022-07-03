@@ -5,13 +5,30 @@
 
 # Angad Sahni 
 ### [Curriculum Vitae](CV.pdf) 
-**Email:** a.sahni@pgr.reading.ac.uk <br> 
-
+**Email:** a.sahni@pgr.reading.ac.uk 
+<br><br>
 Neuroscience PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/),<br> 
-University of Reading. 
-<br> <br> 
+University of Reading.<br>
+**Started:** September, 2021 <br>
+**Completed:** - 
+<br>
+<br>
+
+## Publications
+
+### 2022
+Deterioration in cognitive control underlying development of treatment resistance in early psychosis. <br>
+(CSI lab; submitted for publication)
+<br><br>
+*April*<br>
+[The role of cognitive control in the positive symptoms of psychosis.](https://doi.org/10.1016/j.nicl.2022.103004) <br> 
+([CSI lab](http://www.csilab.org/), King's College London) 
+<br> 
+<br> 
+
+
 
 ## Contents 
-- [Reward vs. Effort Learning Task](task.md) <br>
-- [Experience Sample Methodology (ESM) Study](esm1.md)
+1. [Reward vs. Effort Learning Task](task.md) <br>
+2. [Experience Sample Methodology (ESM) Study](esm1.md)
 
