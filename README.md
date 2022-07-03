@@ -1,4 +1,5 @@
-![](chitra.png)
+![](intro.png)
+
 
 ## Hello.
 
