@@ -1,7 +1,6 @@
 ![](intro.png)
 ###### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*
 <br>
-<br>
 
 # Angad Sahni <br> 
 ### [Curriculum Vitae](CV.pdf) 
