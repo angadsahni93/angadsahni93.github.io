@@ -6,7 +6,8 @@
 ### [Curriculum Vitae](CV.pdf) <br>
 **Email:** a.sahni@pgr.reading.ac.uk <br> 
 
-First-year PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/), University of Reading. 
+Neuroscience PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/),<br> 
+University of Reading. 
 <br> <br> 
 
 ## Contents <br>
