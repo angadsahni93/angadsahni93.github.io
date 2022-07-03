@@ -10,7 +10,7 @@ First-year PhD student in the [Neuroscience of Reward Group (NRG)](https://www.n
 <br> <br> 
 
 ## Contents <br>
-- Reward vs. Effort Learning Task <br>
+- [Reward vs. Effort Learning Task](task.md) <br>
 - Experience Sample Methodology (ESM) Study
 
  
