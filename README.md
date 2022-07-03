@@ -4,7 +4,7 @@
 
 # Angad Sahni
 ### [Curriculum Vitae](CV.pdf)
-I am a first-year PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/), University of Reading. <br>
+- First-year PhD student in the [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/), University of Reading. <br>
 <br>
 
  
