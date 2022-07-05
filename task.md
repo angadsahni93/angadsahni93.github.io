@@ -6,10 +6,13 @@
 # Reward vs. Effort Learning Task
 ## Contents
 [Design](task.md#design)<br>
-[Recruitment](task.md#recruitment)
+[Recruitment](task.md#recruitment)<br>
 
-### Design
+<br>
+<br>
 
-### Recruitment
+## Design
 
-### 
+## Recruitment
+
+
