@@ -3,7 +3,12 @@
 ###### *Nataraja.*<br>*The cosmic dancer. Stillness and chaos embodied.*
 <br>
 
-
 # Reward vs. Effort Learning Task
+## Contents
+[Design](Design)
+
 ### Design
 
+### Recruitment
+
+### 
