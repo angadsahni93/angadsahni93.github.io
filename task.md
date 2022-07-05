@@ -7,6 +7,7 @@
 ## Contents
 [Design](task.md#design)<br>
 [Recruitment](task.md#recruitment)<br>
+[Analyses](task.md#analyses)<br>
 
 <br>
 <br>
@@ -15,4 +16,4 @@
 
 ## Recruitment
 
-
+## Analyses
