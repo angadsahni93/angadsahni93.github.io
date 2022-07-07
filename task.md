@@ -3,7 +3,8 @@
 ###### *Nataraja.*<br>*The cosmic dancer. Stillness and chaos embodied.*
 <br>
 
-# Reward vs. Effort Learning Task
+<h1 align="center"> Reward vs. Effort Learning Task </h1>
+
 ## Contents
 [Design](task.md#design)<br>
 [Recruitment](task.md#recruitment)<br>
@@ -13,7 +14,18 @@
 <br>
 
 ## Design
+#### Maximixing Reward & Minimizing Effort
+A probabilistic task containing both effort and reward elements had been developed by [Skvortsova et al. (2014)](https://doi.org/10.1523/JNEUROSCI.1350-14.2014).
+
+<br>
+<br>
 
 ## Recruitment
 
+<br>
+<br>
+
 ## Analyses
+
+<br>
+<br>
