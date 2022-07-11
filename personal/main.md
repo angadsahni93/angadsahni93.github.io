@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 style="color:red"> IMPORTANT NOTE: </h2> 
+<h2 style="color:red"> IMPORTANT NOTE </h2> 
 All opinions expressed here are **mine and mine alone**. All abuse (and credit) goes to me.
 <br> 
 <br> 
