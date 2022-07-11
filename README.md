@@ -31,5 +31,6 @@ Deterioration in cognitive control underlying development of treatment resistanc
 
 ## Contents 
 1. [Reward vs. Effort Learning Task](task.md) <br>
-2. [Experience Sample Methodology (ESM) Study](esm1.md)
+2. [Experience Sample Methodology (ESM) Study](esm1.md) <br>
+3. [Outreach](outreach.md) <br>
 
