@@ -5,7 +5,33 @@
 <h1 align="center"> Outreach </h1>
 
 ## Contents
-[Reading Scholars](outreach.md#Reading-Scholars)<br>
+[Reading Scholars](outreach.md#reading-scholars)<br>
+[St. Joseph's College](outreach.md#st-josephs-college)<br>
+
+<br>
+
+## Reading Scholars
+The University of Reading seeks to increase the transition of high-achieving A-level students, from low income families, to university education.<br>
+I used the opportunity of giving talks to the 2021/22 cohort of scholars to gain data for the [online task](task.md) and the [ESM study](esm1.md). 
+
+<br>
+
+### 31st March 2022: Presentation.
+I gave a 1-hour presentation, outlining the two studies that I am running, the aims of the NRG lab and how the students (~30) could get involved.
+<br>
+Regarding the lattermost point, I asked the students to fill out an online survey which collected self-reported clinical data, containing the scales: [BDI](https://www.ismanet.org/doctoryourspirit/pdfs/Beck-Depression-Inventory-BDI.pdf), [MFQ](https://devepi.duhs.duke.edu/files/2018/03/MFQ-Adult-Self-Report-Long.pdf), [ASA](https://psycnet.apa.org/record/2021-31031-001), [SHAPS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957191/), [TEPS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.8517&rep=rep1&type=pdf) and [STAI-trait anxiety scale](https://oml.eular.org/sysModules/obxOML/docs/id_150/State-Trait-Anxiety-Inventory.pdf). These were collected **prior** to the presentation, because the plan was to get them to do the task during the 2-hour evening session. 
+<br>
+However, I cancelled the doing the task because Prof. McCabe's previous experience showed that participants start talking to each other a few trials into the task. Therefore, I sent links to the task and unique identifying numbers to the scholars via email, after the presentation. 
+<br>
+<br>
+Unfortunately, this was a **bad idea**. A total of 23 scholars had completed the online survey, whereas just 9 of them completed the task in their own time. A task-completion rate of **less than 1 in 3** makes this method of data collection **cumbersome yet pointless** - the worst of both worlds. Therefore, it should be used as the last resort.
+<br>
+
+### 5th-7th July 2022: Summer Residential.
 
 
-### Reading Scholars
+
+<br>
+<br>
+
+## St. Joseph's College
