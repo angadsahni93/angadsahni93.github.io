@@ -31,13 +31,13 @@ Deterioration in cognitive control underlying development of treatment resistanc
 
 
 ## Contents 
-#### PhD
+### PhD
 
 1. [Reward vs. Effort Learning Task](task.md) <br>
 2. [Experience Sample Methodology (ESM) Study](esm1.md) <br>
 3. [Outreach](outreach.md) <br>
 
-#### Personal Project
+### Personal Project
 
 4. [WTF Is Spirituality?!](personal/main.md) <br>
 
