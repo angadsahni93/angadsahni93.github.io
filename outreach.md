@@ -4,9 +4,7 @@
 
 ###### *Vishnu in His abode.* <br>
 
-<p style="background-color: steelblue;">                                                                                           </p>
-
-<h1 align="center"> Outreach </h1>
+<h1 align="center"> <u> Outreach </u> </h1>
 
 ## Contents
 1. [Reading Scholars](outreach.md#reading-scholars)<br>
