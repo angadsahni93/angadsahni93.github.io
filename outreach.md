@@ -37,8 +37,10 @@ However, I cancelled it because Prof. McCabe's previous experience showed that p
 ### - 5th-7th July 2022: Summer Residential.
 This residential included the scholars returning to the campus and getting the "undergraduate experience". These were students interested in psychology and so I conducted the central activity of their residential: poster design and presentation. <br>
 The data for the posters was from the online task which the scholars completed on their first session with me (5th July). This would give the scholars an experience of being **both researchers and participants**. <br>
-This too was a bad idea. I had hoped to gain 30(!) participants' data, which would be the biggest one-time collection I would have had! However, they were sitting next to each other while completing the task and ended talking to each other - a warning that Prof. McCabe had given me before. Nonetheless, I used their data for the purposes of the posters but decided against using them for analyses. <br>
-
+This too was a bad idea. I had hoped to gain 30(!) participants' data, which would be the biggest one-time collection I would have had! However, they were sitting next to each other while completing the task and ended talking to each other - a warning that Prof. McCabe had given me before. Nonetheless, I used their data for the purposes of the posters but decided against using them for analyses. 
+<br>
+<br>
+**TL;DR:** Don't do what you were told doesn't work. It'll be a waste of time. The residential was fun, regardless.
 
 <br>
 <br>
