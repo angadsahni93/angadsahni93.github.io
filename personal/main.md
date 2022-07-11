@@ -1,6 +1,6 @@
 <p align="center"> <img width="500" src="buddha.jpeg" alt="buddha"> </p>
 
-##### *Gautama: How far should I go down the path of Truth? <br> Buddha: All the way.*
+###### *Gautama: How far should I go down the path of Truth? <br> Buddha: All the way.*
 
 <br>
 
