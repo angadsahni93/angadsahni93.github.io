@@ -5,10 +5,10 @@
 <h1 align="center"> Outreach </h1>
 
 ## Contents
-[Reading Scholars](outreach.md#reading-scholars)<br>
-[St. Joseph's College](outreach.md#st-josephs-college)<br>
-[Bulmershe School](outreach.md#bulmershe-school)<br>
-[Psychology Taster Session](outreach.md#university-psychology-taster-session)
+1. [Reading Scholars](outreach.md#reading-scholars)<br>
+2. [St. Joseph's College](outreach.md#st-josephs-college)<br>
+3. [Bulmershe School](outreach.md#bulmershe-school)<br>
+4. [Psychology Taster Session](outreach.md#university-psychology-taster-session)
 
 <br>
 
