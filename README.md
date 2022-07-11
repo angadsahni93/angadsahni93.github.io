@@ -39,5 +39,6 @@ Deterioration in cognitive control underlying development of treatment resistanc
 
 ### Personal Project
 
-4. [WTF Even Is Spirituality??](personal/main.md) <br>
+1. [WTF Even Is Spirituality??](personal/main.md) <br>
+
 
