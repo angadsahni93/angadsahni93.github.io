@@ -1,9 +1,4 @@
 <p align="center"> <img width="500" src="imgs/vishnu.jpeg" alt="vishnu"> </p>
-
-<html>
-<body style="background-color:red;">
-  </body>
-  </html>
   
 ###### *Vishnu in His abode.* <br>
 
@@ -61,3 +56,5 @@ However, I cancelled the doing the task because Prof. McCabe's previous experien
 
 <br>
 <br>
+
+  
