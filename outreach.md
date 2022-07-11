@@ -4,7 +4,7 @@
 
 ###### *Vishnu in His abode.* <br>
 
-<span style="color:blue">     lols                                                                                          </span>
+<p style="background-color: steelblue;">                                                                                           </p>
 
 <h1 align="center"> Outreach </h1>
 
