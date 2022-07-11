@@ -1,6 +1,6 @@
 <p align="center"> <img width="500" src="imgs/vishnu.jpeg" alt="vishnu"> </p>
 
-<body style="background-color:PaleGreen;"></body>
+<body style="background-color:WhiteSmoke;"></body>
 
 ###### *Vishnu in His abode.* <br>
 
