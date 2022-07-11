@@ -24,7 +24,7 @@ Regarding the lattermost point, I asked the students to fill out an online surve
 However, I cancelled the doing the task because Prof. McCabe's previous experience showed that participants start talking to each other a few trials into the task. Therefore, I sent links to the task and unique identifying numbers to the scholars via email, after the presentation. 
 <br>
 <br>
-Unfortunately, this was a **bad idea**. A total of 23 scholars had completed the online survey, whereas just 9 of them completed the task in their own time. A task-completion rate of **less than 1 in 3** makes this method of data collection **cumbersome yet pointless** - the worst of both worlds. Therefore, it should be used as the last resort.
+**Conclusions:** Unfortunately, this was a **bad idea**. A total of 23 scholars had completed the online survey, whereas just 9 of them completed the task in their own time. A task-completion rate of **less than 1 in 3** makes this method of data collection **cumbersome yet pointless** - the worst of both worlds. Therefore, it should be used as the last resort.
 
 <br>
 
