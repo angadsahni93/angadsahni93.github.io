@@ -25,6 +25,7 @@ However, I cancelled the doing the task because Prof. McCabe's previous experien
 <br>
 <br>
 Unfortunately, this was a **bad idea**. A total of 23 scholars had completed the online survey, whereas just 9 of them completed the task in their own time. A task-completion rate of **less than 1 in 3** makes this method of data collection **cumbersome yet pointless** - the worst of both worlds. Therefore, it should be used as the last resort.
+
 <br>
 
 ### 5th-7th July 2022: Summer Residential.
