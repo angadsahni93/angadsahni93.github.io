@@ -1,4 +1,4 @@
-<p align="center"> <img width="400" src="imgs/task.jpeg" alt="triumvirate"> </p>
+<p align="center"> <img width="500" src="imgs/task.jpeg" alt="triumvirate"> </p>
 
 ###### *Nataraja.*<br>*The cosmic dancer. Stillness and chaos embodied.*
 <br>
