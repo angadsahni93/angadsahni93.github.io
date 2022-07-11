@@ -6,9 +6,9 @@
 <h1 align="center"> Reward vs. Effort Learning Task </h1>
 
 ## Contents
-[Design](task.md#design)<br>
-[Recruitment](task.md#recruitment)<br>
-[Analyses](task.md#analyses)<br>
+1. [Design](task.md#design)<br>
+2. [Recruitment](task.md#recruitment)<br>
+3. [Analyses](task.md#analyses)<br>
 
 <br>
 <br>
