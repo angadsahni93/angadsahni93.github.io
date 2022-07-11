@@ -3,6 +3,8 @@
 ###### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*
 <br>
 
+<body style="background-color:LightYellow;"></body>
+
 # Angad Sahni 
 ### [Curriculum Vitae](pdfs/CV.pdf) 
 **Email:** a.sahni@pgr.reading.ac.uk 
