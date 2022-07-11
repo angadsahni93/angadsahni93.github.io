@@ -3,8 +3,6 @@
 ##### *Sanskrit.*<br>*The alphabet is called 'Devanagari' - from the realm of the Gods.*
 <br>
 
-<body style="background-color:LightYellow;"></body>
-
 
 <h1 align="center"> Experience Sampling Methodology (ESM) Study </h1>
 
