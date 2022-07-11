@@ -1,4 +1,4 @@
-<p align="center"> <img width="900" src="imgs/intro.png" alt="triumvirate"> </p>
+<p align="center"> <img width="900" src="imgs/intro.png" alt="ganesha"> </p>
 
 ###### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*
 <br>
