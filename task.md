@@ -33,8 +33,7 @@ The team divided the reward and effort elements into **high** and **low** magnit
 
 The probabilistic learning element was then introduced at the 'choice' stage of the task. Participants were to choose one of two shapes, each probabilistically associated with the **better** option of either the reward or effort element. <br>
 
-
-This means, for example, both shapes may lead to the **high effort** but only left one leads to **high reward** (the better outcome); the team called this the **'reward learning'** paradigm. 
+For example, both shapes may lead to the **high effort** but only left one leads to **high reward** (the better outcome); the team called this the **'reward learning'** paradigm. 
 <!-- Explain what reward learning means. If it were a block design, the participant would figure out that only the rewards change, not the effort. Therefore, the strategy the design involves trying to achieve the high reward; reward is given **salience**. -->
 
 <br>
