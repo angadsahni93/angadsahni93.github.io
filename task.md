@@ -15,9 +15,14 @@
 
 ## Design
 #### Maximixing Reward & Minimizing Effort
-A probabilistic task containing both effort and reward elements had been developed by [Skvortsova et al. (2014)](https://doi.org/10.1523/JNEUROSCI.1350-14.2014).<br>
-This task consisted of:
-[](imgs/task_layout.jpeg)
+A probabilistic task containing both effort and reward elements had been developed by [Skvortsova et al. (2014)](https://doi.org/10.1523/JNEUROSCI.1350-14.2014).
+<br>
+<p align="left"> <img width="500" src="imgs/task_layout.jpeg" alt="task"> 
+  <br> 
+  <br>
+  <b>Figure 1:</b>  The layout of the task designed by Skvortsova et al., taken from Fig. 1A from their publication.</p>
+<br>
+The task layout included a reward element associated with required effort (Outcome, Fig. 1). The 'effort' stage, once completed, leads to 'payoff' of the reward.
 
 
 
