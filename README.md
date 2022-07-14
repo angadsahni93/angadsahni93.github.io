@@ -31,8 +31,7 @@ Deterioration in cognitive control underlying development of treatment resistanc
 *Charlotte M.Horne, <b>Angad Sahni</b>, Sze W.Pang, Lucy D.Vanes, Timea Szentgyorgyi, <br>Bruno Averbeck, Rosalyn J.Moran, Sukhwinder S.Shergill. <br>
 [CSI lab](http://www.csilab.org/), King's College London*
 
-<br> 
-<br> 
+<br>  
 
 
 
