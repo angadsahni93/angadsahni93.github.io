@@ -2,8 +2,6 @@
 
 <body style="background-color:black;"></body>
 
-<span style="color:white">
-
 
   
 <span style="color:white">  *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*   </span>
