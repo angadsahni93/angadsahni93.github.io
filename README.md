@@ -8,7 +8,8 @@
 <br>
 
 
-# Angad Sahni 
+<span style="color:white"><h1> Angad Sahni </h1></span>
+
 ### [Curriculum Vitae](pdfs/CV.pdf) 
 **Email:** a.sahni@pgr.reading.ac.uk 
 <br><br>
