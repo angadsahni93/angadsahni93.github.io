@@ -1,5 +1,7 @@
 <p align="center"> <img width="900" src="imgs/intro.png" alt="ganesha"> </p>
 
+<body style="background-color:black;"></body>
+
 ###### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*
 <br>
 
