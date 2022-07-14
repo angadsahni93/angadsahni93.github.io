@@ -2,7 +2,7 @@
 
 <body style="background-color:black;"></body>
 
-<span style="color:white">HELLO</span>
+<span style="color:white">HELLO
 
 ###### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*
 <br>
@@ -19,7 +19,8 @@ University of Reading.<br>
 **Completed:** - 
 <br>
 <br>
-
+  </span>
+  
 ## Publications
 
 ### 2022
