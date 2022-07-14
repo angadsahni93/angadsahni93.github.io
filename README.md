@@ -1,6 +1,6 @@
 <p align="center"> <img width="900" src="imgs/intro.png" alt="ganesha"> </p>
 
-<body style="background-color:#F9E79F;"></body>
+<body style="background-color:#FEF9E7;"></body>
   
 ###### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*  
 <br>
