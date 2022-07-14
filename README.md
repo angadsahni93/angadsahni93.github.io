@@ -23,13 +23,13 @@ University of Reading.<br>
 
 ### 2022
 Deterioration in cognitive control underlying development of treatment resistance in early psychosis. <br>
-(CSI lab; submitted for publication)
+([CSI lab](http://www.csilab.org/); submitted for publication)
 <br>
 <br>
 *- April*
 <br>
-[The role of cognitive control in the positive symptoms of psychosis.](https://doi.org/10.1016/j.nicl.2022.103004) <br> 
-([CSI lab](http://www.csilab.org/), King's College London) 
+[The role of cognitive control in the positive symptoms of psychosis.](https://doi.org/10.1016/j.nicl.2022.103004) <br> <br>
+****Charlotte M.Horne, <u>Angad Sahni</u>, Sze W.Pang, Lucy D.Vanes, Timea Szentgyorgyi, <br>Bruno Averbeck, Rosalyn J.Moran, Sukhwinder S.Shergill. ([CSI lab](http://www.csilab.org/), King's College London)****
 
 <br> 
 <br> 
