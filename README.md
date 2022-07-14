@@ -2,9 +2,11 @@
 
 <body style="background-color:black;"></body>
 
-<span style="color:white">HELLO
+<span style="color:white">
 
-###### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*
+
+  
+<span style="color:white">  *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*   </span>
 <br>
 
 
@@ -19,7 +21,7 @@ University of Reading.<br>
 **Completed:** - 
 <br>
 <br>
-  </span>
+
   
 ## Publications
 
