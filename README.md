@@ -1,14 +1,12 @@
 <p align="center"> <img width="900" src="imgs/intro.png" alt="ganesha"> </p>
 
-<body style="background-color:black;"></body>
-
-
+<body style="background-color:#F9E79F;"></body>
   
-<span style="color:white">  *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*   </span>
+###### *The procession of Ganesha.* <br> *(left to right) Ganesha, Kartikeya, Shiva, Vishnu, Narada Muni and musician.*  
 <br>
 
 
-<span style="color:white"><h1> Angad Sahni </h1></span>
+# Angad Sahni 
 
 ### [Curriculum Vitae](pdfs/CV.pdf) 
 **Email:** a.sahni@pgr.reading.ac.uk 
