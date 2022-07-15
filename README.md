@@ -22,7 +22,7 @@ University of Reading.<br>
 ## Publications
 
 ### 2022
-<u>**Deterioration in cognitive control underlying development of treatment resistance in early psychosis.**</u> <br>
+**<u>Deterioration in cognitive control underlying development of treatment resistance in early psychosis.</u>** <br>
 **Authors:** *Charlotte M Horne, <b>Angad Sahni</b>, Sze W Pang, Lucy D Vanes, Timea Szentgyorgyi, Bruno Averbeck, <br> 
 Rosalyn J Moran, Sukhwinder S Shergill. <br>
 ([CSI lab](http://www.csilab.org/); submitted for publication)*
