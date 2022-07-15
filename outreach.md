@@ -40,7 +40,7 @@ This too was a bad idea. I had hoped to gain 30(!) participants' data, which wou
 <br>
 <br>
 
-**TL;DR:** Don't do what you were told doesn't work. It'll be a waste of time. The residential was fun, regardless.
+**TL;DR:** Getting students to do the task while sitting next to each other will give you **poor quality data**. The residential was fun, regardless.
 
 <br>
 <br>
