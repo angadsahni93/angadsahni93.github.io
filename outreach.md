@@ -1,4 +1,4 @@
-<p align="center"> <img width="500" src="imgs/vishnu.jpeg" alt="vishnu"> </p>
+<p align="center"> <img width="600" src="imgs/vishnu.jpeg" alt="vishnu"> </p>
 
 
 ###### *Vishnu in His abode.* <br>
@@ -35,7 +35,7 @@ However, I cancelled it because Prof. McCabe's previous experience showed that p
 
 ### - 5th-7th July 2022: Summer Residential.
 This residential included the scholars returning to the campus and getting the "undergraduate experience". These were students interested in psychology and so I conducted the central activity of their residential: poster design and presentation. <br>
-The data for the posters was from the online task which the scholars completed on their first session with me (5th July). This would give the scholars an experience of being **both researchers and participants**. <br>
+The data for the posters was from the online task which the scholars completed on their first session with me (5th July). This would give the scholars an experience of being **both researchers and participants**. From this, I had made clear that as the researcher, their utmost concern is **data quality**, which means they must do the task with diligence as participants. This, however, did not work... <br>
 This too was a bad idea. I had hoped to gain 30(!) participants' data, which would be the biggest one-time collection I would have had! However, they were sitting next to each other while completing the task and ended talking to each other - a warning that Prof. McCabe had given me before. Nonetheless, I used their data for the purposes of the posters but decided against using them for analyses. 
 <br>
 <br>
