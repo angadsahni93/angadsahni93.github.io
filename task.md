@@ -18,8 +18,10 @@ A probabilistic task containing both effort and reward elements had been develop
 <br>
 <br>
 <p align="center"> <img width="600" src="imgs/task_layout.jpeg" alt="task"></p><br>
-<i><b>Figure 1:</b> The layout of the task designed by Skvortsova et al., taken from Fig. 1A of their paper.</i>
-<br>
+
+#### Figure 1: 
+<i>The layout of the task designed by Skvortsova et al., taken from Fig. 1A of their paper.</i>
+
 <br>
 <br>
 
