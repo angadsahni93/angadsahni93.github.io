@@ -34,9 +34,22 @@ The team divided the reward and effort elements into **high** and **low** magnit
 
 The probabilistic learning element was then introduced at the 'choice' stage of the task. Participants were to choose one of two shapes, each probabilistically associated with the **better** option of either the reward or effort element. <br>
 
-For example, both shapes may lead to the **high effort** but only left one leads to **high reward** (the better outcome); the team called this the **'reward learning'** paradigm. 
+For example, both shapes may lead to the **high effort** but only the **left** one leads to **high reward** (the **better outcome**); the team called this the **'reward learning'** paradigm. 
 
 <!-- Explain what reward learning means. If it were a block design, the participant would figure out that only the rewards change, not the effort. Therefore, the strategy the design involves trying to achieve the high reward; reward is given **salience**. -->
+
+<br>
+<br>
+
+#### NRG's Task Modifications
+
+<br>
+<b><i>Frey's Design</i></b>
+
+<br>
+<br>
+
+<b><i>My Design</i></b>
 
 <br>
 <br>
@@ -44,6 +57,7 @@ For example, both shapes may lead to the **high effort** but only left one leads
 ## Recruitment
 #### Strategy
 Initially, the strategy involved going to schools, giving talks (as discussed in [Outreach](outreach.md#contents)) and getting data for the task in exchange.
+<br>
 <br>
 But as the summer holidays (2022) have come around, online recruitment is all that is available. For this, I have created an online page ([TASK_Study](https://nrg-hub.github.io/TASK_Study/)) that **briefly** discusses the task, giving the instructions contained within the task already. I ensured I gave the same instructions in my talks too. 
 
