@@ -39,7 +39,7 @@ University of Reading.<br>
 ### PhD
 
 1. [Reward vs. Effort Learning Task](task.md) <br>
-2. [Experience Sample Methodology (ESM) Study](esm1.md) <br>
+2. [Experience Sampling Methodology (ESM) Study](esm1.md) <br>
 3. [Outreach](outreach.md) <br>
 
 ### Personal Project
@@ -48,9 +48,7 @@ University of Reading.<br>
 
 <br>  
 <br>  
-
 <br>  
 <br>  
-
 <br>  
 <br>  
