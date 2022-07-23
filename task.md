@@ -27,7 +27,7 @@ A probabilistic task containing both effort and reward elements had been develop
 The task layout included a reward element associated with required effort (Outcome, Fig. 1). The 'effort' stage, once completed, leads to 'payoff' of the reward.
 <br>
 
-The team divided the reward and effort elements into **high** and **low** magnitudes. 10 and 20cents were used as monetary reward, while the effort calibrations required more work. The task invovled physical effort, measured by the force with which participants squeezed a tube with each hand. Initially, participants would exert maximum effort 4 times, where 100% effort was an average of the 4. Then, the **20%** and **80%** of max were defined as the low and high effort paradigms, respectively.
+The team divided the reward and effort elements into **high** and **low** magnitudes. 10 and 20cents were used as monetary reward, while the effort calibrations required more work. The task involved physical effort, measured by the force with which participants squeezed a tube with each hand. Initially, participants would exert maximum effort 4 times, where 100% effort was an average of the 4. Then, the **20%** and **80%** of max were defined as the low and high effort paradigms, respectively.
 
 <br>
 
