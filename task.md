@@ -44,12 +44,12 @@ For example, both shapes may lead to the **high effort** but only the **left** o
 #### NRG's Task Modifications
 
 <br>
-<b><i>Frey's Design</i></b>
+<b><u>Frey's Design</u></b>
 
 <br>
 <br>
 
-<b><i>My Design</i></b>
+<b><u>My Design</u></b>
 
 <br>
 <br>
