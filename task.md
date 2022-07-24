@@ -1,8 +1,3 @@
-<p align="center"> <img width="500" src="imgs/task.jpeg" alt="triumvirate"> </p>
-
-###### *Nataraja.*<br>*The cosmic dancer. Stillness and chaos embodied.*
-<br>
-
 <h1 align="center"> Reward vs. Effort Learning Task </h1>
 
 ## Contents
