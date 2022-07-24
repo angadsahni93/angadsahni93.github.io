@@ -309,7 +309,7 @@ Full-Width Styles
 ?>
 
 #header_wrap {
-  background-image: url(../images/<?php echo $selectedBg; ?>) no-repeat;
+  background-image: url(../images/<?php echo $selectedBg; ?>);
   height: 500px;
 }
 
