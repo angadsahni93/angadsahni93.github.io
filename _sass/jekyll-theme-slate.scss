@@ -300,10 +300,21 @@ Full-Width Styles
   border-bottom-right-radius: 2px;
 }
 
+
+<?php
+  $bg = array(astro.jpg, deer.jpg, sun.jpeg); // array of filenames
+
+  $i = rand(0, count($bg)-1); // generate random number size of the array
+  $selectedBg = "$bg[$i]"; // set variable equal to which random filename was chosen
+?>
+
 #header_wrap {
-  background-image: url(../images/astro.jpg);
+  background-image: url(../images/<?php echo $selectedBg; ?>) no-repeat;
   height: 500px;
 }
+
+
+
   /* background: #0776e6;
   background: -moz-linear-gradient(.25turn, #004c99, #027bf5);
   background: -webkit-linear-gradient(.25turn, #004c99, #027bf5);
