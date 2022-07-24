@@ -19,8 +19,13 @@
   $selectedBg = "$bg[$i]"; // set variable equal to which random filename was chosen
 ?>
           <style>
-header_wrap {
-  background-image: url(<?php echo $selectedBg; ?>);
+#header_wrap {
+  background-image: url('<?php echo $selectedBg; ?>') no-repeat;
+  height: 500px;
+}
+            
+.header_wrap {
+  width: 100%;
   height: 500px;
 }
           </style>
