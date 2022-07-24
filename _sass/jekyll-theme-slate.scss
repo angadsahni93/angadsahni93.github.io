@@ -269,9 +269,13 @@ kbd {
 Full-Width Styles
 *******************************************************************************/
 
-.outer {
+.outer_head {
   width: 100%;
   height: 500px;
+}
+
+.outer {
+  width: 100%;
 }
 
 .inner {
@@ -297,7 +301,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background-image: url(../images/surfing.jpg);
+  background-image: url(../images/astro.jpg);
   height: 500px;
 }
   /* background: #0776e6;
