@@ -301,7 +301,7 @@ Full-Width Styles
 }
 
 
-<?php
+/* <?php
   $bg = array(deer.jpg, astro.jpg, deer.jpg, sun.jpeg); // array of filenames
 
   $i = rand(0, count($bg)-1); // generate random number size of the array
@@ -315,7 +315,7 @@ Full-Width Styles
 
 
 
-  /* background: #0776e6;
+   background: #0776e6;
   background: -moz-linear-gradient(.25turn, #004c99, #027bf5);
   background: -webkit-linear-gradient(.25turn, #004c99, #027bf5);
   background: -ms-linear-gradient(.25turn, #004c99, #027bf5);
