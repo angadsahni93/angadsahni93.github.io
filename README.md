@@ -1,4 +1,4 @@
-### [Curriculum Vitae](pdfs/CV.pdf) 
+### [Curriculum Vitae](https://angadsahni93.github.io/pdfs/CV.pdf)
 **Email:** <a href= "mailto: a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a> 
 <br><br>
 Neuroscience PhD student,<br>
