@@ -14,7 +14,7 @@
   <body>
 
     <!-- HEADER -->
-    <div id="header_wrap">  <!╌ class="outer_head"> -->
+    <div class="outer_head"> 
         <header class="inner">
           {% if site.github.is_project_page %}
           {% endif %}
@@ -30,13 +30,14 @@
   $i = rand(0, count($bg)-1); // generate random number size of the array
   $selectedBg = "$bg[$i]"; // set variable equal to which random filename was chosen
 ?>
-
           <style>
 #header_wrap {
   background-image: url(../images/<?php echo $selectedBg; ?>);
   height: 500px;
 }
           </style>
+
+
           
             <section id="downloads">
               <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
