@@ -9,11 +9,24 @@
 
 {% seo %}
     {% include head-custom.html %}
+    
+    <?php
+  $bg = array(astro.jpg, deer.jpg, sun.jpeg); // array of filenames
+
+  $i = rand(0, count($bg)-1); // generate random number size of the array
+  $selectedBg = "$bg[$i]"; // set variable equal to which random filename was chosen
+?>
+          <style>
+#header_wrap {
+  background-image: url(../assets/images/<?php echo $selectedBg; ?>);
+  height: 500px;
+}
+          </style>
   </head>
 
   <body>
     
-    <?php
+<!--    <?php
   $bg = array(deer.jpg, astro.jpg, deer.jpg, sun.jpeg); // array of filenames
 
   $i = rand(0, count($bg)-1); // generate random number size of the array
@@ -21,10 +34,10 @@
 ?>
           <style>
 #header_wrap {
-  background-image: url(../images/<?php echo $selectedBg; ?>);
+  background-image: url(../assets/images/<?php echo $selectedBg; ?>);
   height: 500px;
 }
-          </style>
+          </style> -->
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer_head"> 
