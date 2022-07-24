@@ -12,19 +12,8 @@
   </head>
 
   <body>
-
-    <!-- HEADER -->
-    <div class="outer_head"> 
-        <header class="inner">
-          {% if site.github.is_project_page %}
-          {% endif %}
-
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-          {% if site.show_downloads %}
-          
-          <?php
+    
+    <?php
   $bg = array(deer.jpg, astro.jpg, deer.jpg, sun.jpeg); // array of filenames
 
   $i = rand(0, count($bg)-1); // generate random number size of the array
@@ -36,6 +25,17 @@
   height: 500px;
 }
           </style>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer_head"> 
+        <header class="inner">
+          {% if site.github.is_project_page %}
+          {% endif %}
+
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+
+          {% if site.show_downloads %}
 
 
           
