@@ -11,41 +11,19 @@
     {% include head-custom.html %}
     
     <?php
-  $bg = array(https://raw.githubusercontent.com/angadsahni93/angadsahni93.github.io/master/assets/images/sun.jpeg, https://raw.githubusercontent.com/angadsahni93/angadsahni93.github.io/master/assets/images/deer.jpg, https://raw.githubusercontent.com/angadsahni93/angadsahni93.github.io/master/assets/images/astro.jpg); // array of filenames
+  $bg = array('header_wrap1', 'header_wrap2', 'header_wrap3');
 
-  $i = rand(0, count($bg)-1); // generate random number size of the array
-  $selectedBg = "$bg[$i]"; // set variable equal to which random filename was chosen
+  $i = rand(0, count($bg)-1); 
+  $selectedBg = "$bg[$i]";
 ?>
-          <style>
-#header_wrap {
-  background-image: url(<?php echo $selectedBg; ?>) no-repeat;
-  height: 500px;
-}
-            
-.header_wrap {
-  width: 100%;
-  height: 500px;
-}
-          </style>
+
   </head>
 
   <body>
-    
-<!--    <?php
-  $bg = array(deer.jpg, astro.jpg, deer.jpg, sun.jpeg); // array of filenames
 
-  $i = rand(0, count($bg)-1); // generate random number size of the array
-  $selectedBg = "$bg[$i]"; // set variable equal to which random filename was chosen
-?>
-          <style>
-#header_wrap {
-  background-image: url(../assets/images/<?php echo $selectedBg; ?>);
-  height: 500px;
-}
-          </style> -->
 
     <!-- HEADER -->
-    <div id="header_wrap" class="header_wrap"> <!--class="outer_head"-->
+    <div id=<?php print $selectedBg; ?> class="outer_head">
         <header class="inner">
           {% if site.github.is_project_page %}
           {% endif %}
