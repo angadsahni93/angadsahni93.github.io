@@ -16,7 +16,7 @@
 'https://raw.githubusercontent.com/angadsahni93/angadsahni93.github.io/master/assets/images/astro.jpg'); // array of filenames
 
   $i = rand(0, count($bg)-1); // generate random number size of the array
-  $selectedBg = $bg[$i]; // set variable equal to which random filename was chosen
+  $selectedBg = "$bg[$i]"; // set variable equal to which random filename was chosen
 ?>
           <style>
 #header_wrap {
