@@ -1,8 +1,8 @@
 <h1 align="center"> Reward vs. Effort Learning Task </h1>
 
 ## Contents
-1. [Design](task.md#design)<br>[Background](task.md#background)<br>[NRG's Modifications](task.md#nrgs-task-modifications)<br><br>
-2. [Recruitment](task.md#recruitment)<br>[Strategy](task.md#strategy)<br><br>
+1. [Design](task.md#design)<br> - [Background](task.md#background)<br> - [NRG's Modifications](task.md#nrgs-task-modifications)<br><br>
+2. [Recruitment](task.md#recruitment)<br> - [Strategy](task.md#strategy)<br><br>
 3. [Analyses](task.md#analyses)<br><br>
 
 
