@@ -1,12 +1,11 @@
 <h1 align="center"> Outreach </h1>
 
 ## Contents
-1. [Reading Scholars](outreach.md#reading-scholars)<br>
-2. [St. Joseph's College](outreach.md#st-josephs-college)<br>
-3. [Bulmershe School: Gold Standard Dataset](outreach.md#bulmershe-school)<br>
-4. [Psychology Taster Session](outreach.md#university-psychology-taster-session)
+1. [Reading Scholars](outreach.md#reading-scholars)<br>[Presentation](outreach.md#--31st-march-2022-presentation)<br>[Summer Residential](outreach.md#--5th-7th-july-2022-summer-residential)<br><br>
+2. [St. Joseph's College](outreach.md#st-josephs-college)<br>[Presentation](outreach.md#--30th-june-2022-presentation)<br><br>
+3. [Bulmershe School: Gold Standard Dataset](outreach.md#bulmershe-school)<br>[Presentation](outreach.md#--13th-july-2022-presentation)<br><br>
+4. [Psychology Taster Session](outreach.md#university-psychology-taster-session)<br><br>
 
-<br>
 
 ## Reading Scholars
 The University of Reading seeks to increase the transition of high-achieving A-level students, from low income families, to university education.<br>
