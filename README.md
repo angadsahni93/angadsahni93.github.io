@@ -12,7 +12,9 @@ University of Reading.<br>
 <br>
 
 ## About Me
-My first degree was an integrated-MSc in Neuroscience from UCL.
+**Under consutruction**.
+
+<!-- My first degree was an integrated-MSc in Neuroscience from UCL. -->
 
 <br>
 <br>
