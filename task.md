@@ -1,14 +1,13 @@
 <h1 align="center"> Reward vs. Effort Learning Task </h1>
 
 ## Contents
-1. [Design](task.md#design)<br>
-2. [Recruitment](task.md#recruitment)<br>
-3. [Analyses](task.md#analyses)<br>
+1. [Design](task.md#design)<br>[Background](task.md#background)<br>[NRG's Modifications](task.md#nrgs-task-modifications)<br><br>
+2. [Recruitment](task.md#recruitment)<br>[Strategy](task.md#strategy)<br><br>
+3. [Analyses](task.md#analyses)<br><br>
 
-<br>
 
 ## Design
-#### Maximizing Reward & Minimizing Effort
+#### Background
 A probabilistic task containing both effort and reward elements had been developed by [Skvortsova et al. (2014)](https://doi.org/10.1523/JNEUROSCI.1350-14.2014).
 <br>
 <br>
