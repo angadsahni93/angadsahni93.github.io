@@ -14,6 +14,8 @@ University of Reading.<br>
 ## About Me
 **Under consutruction**.
 
+![](https://c.tenor.com/v74OLsf4a7UAAAAM/agnes-sorry.gif)
+
 <!-- My first degree was an integrated-MSc in Neuroscience from UCL. -->
 
 <br>
