@@ -1,7 +1,8 @@
 # Home
 ### [Curriculum Vitae](https://angadsahni93.github.io/pdfs/CV.pdf)
 **Email:** <a href= "mailto: a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a> 
-<br><br>
+<br>
+<br>
 Neuroscience PhD student,<br>
 [Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/),<br> 
 University of Reading.<br>
@@ -11,7 +12,7 @@ University of Reading.<br>
 <br>
 
 ## About Me
-
+My first degree was an integrated-MSc in Neuroscience from UCL.
 
 <br>
 <br>
