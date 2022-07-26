@@ -1,3 +1,6 @@
+<img href="https://i.pinimg.com/originals/44/1b/64/441b6446c9cf258a468af1c158d8ec34.jpg" style="height:500px">
+
+
 # Home
 ### [Curriculum Vitae](https://angadsahni93.github.io/pdfs/CV.pdf)
 **Email:** <a href= "mailto: a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a> 
