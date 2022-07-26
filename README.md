@@ -1,5 +1,5 @@
-<img href="https://i.pinimg.com/originals/44/1b/64/441b6446c9cf258a468af1c158d8ec34.jpg" style="height:500px">
 
+<p align="center"><img src="https://i.pinimg.com/736x/3c/83/8e/3c838eff44039469a76d9b65fa4ef06f.jpg" style="height:500px"></p>
 
 # Home
 ### [Curriculum Vitae](https://angadsahni93.github.io/pdfs/CV.pdf)
