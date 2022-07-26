@@ -1,4 +1,5 @@
-# Home
+<h1 align="center"> Home </h1>
+
 ### [Curriculum Vitae](https://angadsahni93.github.io/pdfs/CV.pdf)
 **Email:** <a href= "mailto: a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a> 
 <br>
