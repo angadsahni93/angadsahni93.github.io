@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.pinimg.com/736x/3c/83/8e/3c838eff44039469a76d9b65fa4ef06f.jpg" style="height:500px"></p>
+<p align="center"><img src="imgs/aarambh.png" style="height:600px"></p>
 
 # Home
 ### [Curriculum Vitae](https://angadsahni93.github.io/pdfs/CV.pdf)
