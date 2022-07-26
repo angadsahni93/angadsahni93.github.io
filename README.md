@@ -1,6 +1,3 @@
-
-<p align="center"><img src="imgs/aarambh.png" style="height:450px"></p>
-
 # Home
 ### [Curriculum Vitae](https://angadsahni93.github.io/pdfs/CV.pdf)
 **Email:** <a href= "mailto: a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a> 
