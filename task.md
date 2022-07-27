@@ -13,7 +13,7 @@ A probabilistic task containing both effort and reward elements had been develop
 <br>
 <style>
   img{
-  border: 5px solid #555;
+  border: 5px solid #444;
   }
   </style>
 <p align="center"> <img style="height:400px" src="imgs/task_layout.jpeg" alt="task"><br><br>
