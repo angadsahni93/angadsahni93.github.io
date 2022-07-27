@@ -11,14 +11,11 @@
 A probabilistic task containing both effort and reward elements had been developed by [Skvortsova et al. (2014)](https://doi.org/10.1523/JNEUROSCI.1350-14.2014).
 <br>
 <br>
-<style>
-  .lols{
-  border: 10px solid #3b3c36;
-  }
-  </style>
+<div style="border-style: dotted">
 <p align="center"> <img style="height:400px" src="imgs/task_layout.jpeg" alt="task" style="lols"><br><br>
   Figure 1: The layout of the task designed by Skvortsova et al., taken from Fig. 1A of their paper.
   </p>
+  </div>
 
 <br>
 <br>
