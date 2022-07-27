@@ -6,7 +6,7 @@
 
 ## Design
 #### Background
-Our study is a replication of the [Edwards et al. (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6294730/) paper. It investigates the relationship between anticipatory and consummatory pleasure in the **real world**. Answering short questionnaires pertaining to said topics during the day means the responses are **ecologically valid**. This is a novel and exciting development in research as it helps us examine how clinical measures manifest themselves in the **processing** of the real world! When has this ever been done before?!
+Our study is a replication of the [Edwards et al. (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6294730/) paper. It investigates the relationship between anticipatory and consummatory pleasure in the **real world**. Answering short questionnaires pertaining to said topics during the day means the responses are **ecologically valid**. This is a novel and exciting development in research as it helps us examine how clinical symptoms manifest themselves in the **processing** of the real world! When has this ever been done before?!
 
 The group 
 <br>
