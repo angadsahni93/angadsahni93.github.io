@@ -11,7 +11,7 @@ University of Reading.<br>
 **Completed:** - 
 <br>
 <br>
-Skip to my research currency: [Publications](README.md#publications).<br>I'll admit, I'm very poor... for now.
+Skip to my research currency: [Publications](README.md#publications).<br>I assure you, you won't be impressed.
 <br>
 <br>
 
