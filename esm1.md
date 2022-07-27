@@ -33,9 +33,7 @@ This questionnaire design captures certain elements of the Temporal Experience o
 
 #### NRG's Modifications
 
-<br>
-<br>
-<p align="center"><img src="https://c.tenor.com/qtn-vGocXioAAAAM/its-not-over-jerry-seinfeld.gif" style="height:300px"></p>
+<p align="center"><img src="https://i.gifer.com/origin/82/82a1ed531e333926a8ca2a00c277e0d1.gif" style="height:300px"></p>
 
 <br>
 <br>
