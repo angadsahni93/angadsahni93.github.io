@@ -32,13 +32,13 @@ Skip to my research currency: [Publications](README.md#publications).<br>I'll ad
 ## Publications
 
 ### 2022
-**<u>Deterioration in cognitive control underlying development of treatment resistance in early psychosis.</u>** <br>
-**Authors:** Charlotte M Horne, Angad Sahni, Sze W Pang, Lucy D Vanes, Timea Szentgyorgyi, Bruno Averbeck, Rosalyn J Moran, Sukhwinder S Shergill. <br>
+**Deterioration in cognitive control underlying development of treatment resistance in early psychosis.** <br>
+**Authors:** Charlotte M Horne, Angad Sahni, Sze W Pang, Lucy D Vanes, Timea Szentgyorgyi, Bruno Averbeck, Rosalyn J Moran, Sukhwinder S Shergill.<br>
 [CSI lab](http://www.csilab.org/); submitted for publication
 <br>
 <br>
 
-**[<u>The role of cognitive control in the positive symptoms of psychosis.</u>](https://doi.org/10.1016/j.nicl.2022.103004)** <br>
+**[The role of cognitive control in the positive symptoms of psychosis.](https://doi.org/10.1016/j.nicl.2022.103004)** <br>
 **Authors:** Charlotte M.Horne, Angad Sahni, Sze W.Pang, Lucy D.Vanes, Timea Szentgyorgyi, Bruno Averbeck, Rosalyn J.Moran, Sukhwinder S.Shergill. <br>
 [CSI lab](http://www.csilab.org/), King's College London
 
