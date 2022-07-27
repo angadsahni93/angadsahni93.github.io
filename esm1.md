@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center"><img src="imgs/esm_ques.png" style="height:400px"><br><br>
-  <b>Figure 1: Flowchart showing the questionnaire that is repeated 7 times a day for 6 days. Referred to as the BEEP questionnaires, because the reminders are called beeps.</b></p>
+  **Figure 1: Flowchart showing the questionnaire that is repeated 7 times a day for 6 days. Referred to as the BEEP questionnaires, because the reminders are called beeps.**</p>
 
 <br>
 <br>
@@ -19,7 +19,7 @@
 
 <br>
 <br>
-<p align="center"><b>Once we're published, we'll let you know. Unfortunately...</b><br><img src="https://c.tenor.com/qtn-vGocXioAAAAM/its-not-over-jerry-seinfeld.gif" style="height:300px"></p>
+<p align="center">**Once we're published, we'll let you know. Unfortunately...**<br><img src="https://c.tenor.com/qtn-vGocXioAAAAM/its-not-over-jerry-seinfeld.gif" style="height:300px"></p>
 
 <br>
 <br>
