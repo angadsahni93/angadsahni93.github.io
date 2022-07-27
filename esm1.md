@@ -8,11 +8,16 @@
 #### Background
 Our study is a replication of the [Edwards et al. (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6294730/) paper. It investigates the relationship between anticipatory and consummatory pleasure in the **real world**. Answering short questionnaires pertaining to said topics during the day means the responses are **ecologically valid**. This is a novel and exciting development in research as it helps us examine how clinical symptoms manifest themselves in the **processing** of the real world! When has this ever been done before?!
 
-The group 
+The group conducted their study in schizophrenic and healthy participants, where both groups answered short questionnaires that "beeped" **7 times a day, for 6 days**, on a [PsyMate](https://www.psymate.eu/) device. The questions are shown in Figure 1. 
+<br>
 <br>
 <br>
 <p align="center"><img src="imgs/esm_ques.png" style="height:400px"><br><br>
   Figure 1: Flowchart showing the questionnaire that is repeated 7 times a day for 6 days. Referred to as the BEEP questionnaires, as the reminders were labelled beeps.</p>
+<br>
+<br>
+
+The **'current mood'** item contains 11 questions, all of them rated using a 1 (least) to 7 (most) Likert scale. Questions began with 'Are you' and included affective measures like cheerful, anxious and lonely. 
 
 <br>
 <br>
