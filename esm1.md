@@ -17,8 +17,13 @@ The group conducted their study in schizophrenic and healthy participants, where
 <br>
 <br>
 
-The **'current mood'** item contains 11 questions, all of them rated using a 1 (least) to 7 (most) Likert scale. Questions began with 'Are you' and included affective measures like cheerful, anxious and lonely. 
-
+The **'current mood'** item contains 11 questions, all of them rated using a **1 (least) to 7 (most) Likert scale**. Questions began with 'Are you' and included affective measures like cheerful, anxious and lonely.<br>
+The **activity and social event** question gave options to select from.<br>
+All of the other questions were also answered using a 1-7 Likert scale, with the exception of the **'expectation'** question; participants were required to use a **sliding scale** and rate it between **0-100%**.<br>
+Lastly, the **gap between beeps** was **pseudo-randomised** to be at least 45 minutes apart. 
+<br>
+<br>
+This questionnaire design captures the following elements of the Temporal Experience of Pleasure (TEP) cycle.
 <br>
 <br>
 
