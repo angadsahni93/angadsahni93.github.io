@@ -12,11 +12,11 @@ A probabilistic task containing both effort and reward elements had been develop
 <br>
 <br>
 <style>
-  img{
+  .lols{
   border: 10px solid #3b3c36;
   }
   </style>
-<p align="center"> <img style="height:400px" src="imgs/task_layout.jpeg" alt="task"><br><br>
+<p align="center"> <img style="height:400px" src="imgs/task_layout.jpeg" alt="task" style="lols"><br><br>
   Figure 1: The layout of the task designed by Skvortsova et al., taken from Fig. 1A of their paper.
   </p>
 
