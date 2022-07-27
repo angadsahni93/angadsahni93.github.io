@@ -11,11 +11,17 @@ University of Reading.<br>
 **Completed:** - 
 <br>
 <br>
+**Skip to my research currency: [Publications](README.md#publications).<br>I'll admit, I'm very poor.**
+<br>
+<br>
 
 ## About Me
-**Under consutruction**.
+**Under construction**.
 
 ![](https://c.tenor.com/v74OLsf4a7UAAAAM/agnes-sorry.gif)
+
+<p align="center"><img src="imgs/tep_comp.png" style="height:400px"><br><br>
+<b>The Temporal Experience of Pleasure (TEP) cycle by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020953/">Kring and Barch</a> is the bedrock of my PhD on anhedonia.</p>
 
 <!-- My first degree was an integrated-MSc in Neuroscience from UCL. -->
 
