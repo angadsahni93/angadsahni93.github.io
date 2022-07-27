@@ -19,7 +19,7 @@
 
 <br>
 <br>
-<p align="center">**Once we're published, we'll let you know. Unfortunately...**<br><img src="https://c.tenor.com/qtn-vGocXioAAAAM/its-not-over-jerry-seinfeld.gif" style="height:300px"></p>
+<p align="center"><img src="https://c.tenor.com/qtn-vGocXioAAAAM/its-not-over-jerry-seinfeld.gif" style="height:300px"></p>
 
 <br>
 <br>
