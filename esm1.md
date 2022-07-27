@@ -32,8 +32,9 @@ This questionnaire design captures certain elements of the Temporal Experience o
 <br>
 
 #### NRG's Modifications
+**Coming soon. Enjoy this for now.**
 
-<p align="center"><img src="https://i.gifer.com/origin/82/82a1ed531e333926a8ca2a00c277e0d1.gif" style="height:300px"></p>
+<p align="center"><img src="https://cdn.dribbble.com/users/1315195/screenshots/3506315/gene.gif" style="height:300px"></p>
 
 <br>
 <br>
