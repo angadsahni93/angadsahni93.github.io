@@ -9,8 +9,17 @@
 
 <br>
 <br>
+<p align="center"><img src="imgs/esm_ques.png" style="height:400px"><br><br>
+  <b>Figure 1: Flowchart showing the questionnaire that is repeated 7 times a day for 6 days. Referred to as the BEEP questionnaires, because the reminders are called beeps.</b></p>
+
+<br>
+<br>
 
 #### NRG's Modifications
+
+<br>
+<br>
+<p align="center"><b>Once we're published, we'll let you know. Unfortunately...</b><br><img src="https://c.tenor.com/qtn-vGocXioAAAAM/its-not-over-jerry-seinfeld.gif" style="height:300px"></p>
 
 <br>
 <br>
@@ -22,7 +31,6 @@ The ESM study's instructions page: [https://nrg-hub.github.io/SMARTPHONE_Study/]
 During the [Reading Scholars Summer Residential](https://angadsahni93.github.io/outreach.html#--5th-7th-july-2022-summer-residential), me and my MSc student (Tarun Vermani) gave talks. Tarun spoke about the ESM study to the adolescent cohort after the poster presentations and encouraged them sign-up. He humanised the research, in that he stressed that the research will help to deal with the uniquely adolescent anxieties that they suffer from. I was very fortunate to have him on-board because this is a skill that I lack. For my part, I stressed the fact that this will reflect well on their personal statements, as they will be applying for universities from September '22. These efforts lead to **around 12** sign-ups as I asked those interested can give me their email addresses. 
 <br>
 I used the same strategy in the [Bulmershe School's talk](https://angadsahni93.github.io/outreach.html#bulmershe-school). Here, I discussed, as I had previously done in the [St. Joseph's College talk](https://angadsahni93.github.io/outreach.html#st-josephs-college), that I would like to develop a [Youth Advisory Group](https://angadsahni93.github.io/yga.html), involvement in which would also look good on their personal statements. More details given on the page.  
-<br>
 <br>
 While the above methods gave us some participants, the most were **recruited by Tarun**. He plans to stay in contact with the NRG after he finishes his MSc in September 2022, and to continue to recruit adolescents for this study. This strategy is **<u>ideal</u>** for **two reasons**:<br>
 1. A continuous, steady flow of participants coming in.
