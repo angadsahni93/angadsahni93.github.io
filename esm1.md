@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center"><img src="imgs/esm_ques.png" style="height:400px"><br><br>
-  Figure 1: Flowchart showing the questionnaire that is repeated 7 times a day for 6 days. Referred to as the BEEP questionnaires, because the reminders are called beeps.</p>
+  Figure 1: Flowchart showing the questionnaire that is repeated 7 times a day for 6 days. Referred to as the BEEP questionnaires, as the reminders were labelled beeps.</p>
 
 <br>
 <br>
