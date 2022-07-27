@@ -23,7 +23,7 @@ All of the other questions were also answered using a 1-7 Likert scale, with the
 Lastly, the **gap between beeps** was **pseudo-randomised** to be at least 45 minutes apart. 
 <br>
 <br>
-This questionnaire design captures elements of the Temporal Experience of Pleasure (TEP) cycle by [Kring and Barch (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020953/) (Figure 2).
+This questionnaire design captures certain elements of the Temporal Experience of Pleasure (TEP) cycle by [Kring and Barch (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020953/) (Figure 2).
 <br>
 <br>
 <p align="center"><img src="imgs/tep_esm.png" style="height:400px"><br><br>
