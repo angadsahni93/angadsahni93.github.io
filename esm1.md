@@ -28,7 +28,7 @@ While the above methods gave us some participants, the most were **recruited by 
 1. A continuous, steady flow of participants coming in.
 2. If they agree to participate in a 6-day study, getting them to then do an **online task and survey** (~1hour) would be easy.
 
-This gives **both** real world and computational data for most of our recruited participants, laying the foundation for a **third study**, investigating the appropriate associations.
+This gives **both** real world and computational data for most of our recruited participants, laying the foundation for a **third study**.
 <br>
 <br>
 #### Issues & Solutions
