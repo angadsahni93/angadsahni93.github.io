@@ -6,7 +6,9 @@
 
 ## Design
 #### Background
+Our study is a replication of the [Edwards et al. (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6294730/) paper. It investigates the relationship between anticipatory and consummatory pleasure in the **real world**. Answering short questionnaires pertaining to said topics during the day means the responses are **ecologically valid**. This is a novel and exciting development in research as it helps us examine how clinical measures manifest themselves in the real world! When has this ever been done before?!
 
+The group 
 <br>
 <br>
 <p align="center"><img src="imgs/esm_ques.png" style="height:400px"><br><br>
