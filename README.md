@@ -60,7 +60,7 @@ body {
   font-size: 20px;
 }
 
-#myBtn {
+#myBtn1 {
   display: none;
   position: fixed;
   bottom: 100px;
@@ -76,26 +76,26 @@ body {
   border-radius: 4px;
 }
 
-#myBtn:hover {
+#myBtn1:hover {
   background-color: white;
   color: green;
 }
 </style>
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">Sign me up!</button>
+<button onclick="topFunction()" id="myBtn1" title="Go to top">Sign me<br>up!</button>
 
 <script>
 //Get the button
-var mybutton = document.getElementById("myBtn");
+var mybutton1 = document.getElementById("myBtn1");
 
 // When the user scrolls down 500px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
   if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
-    mybutton.style.display = "block";
+    mybutton1.style.display = "block";
   } else {
-    mybutton.style.display = "none";
+    mybutton1.style.display = "none";
   }
 }
 
