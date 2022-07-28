@@ -82,7 +82,7 @@ body {
 }
 </style>
 
-<button onclick="topFunction()" style="background-color:green" title="Go to top">Sign me<br>up!</button>
+<button onclick="topFunction()" id="myBtn" title="Go to top">SIGN ME<br>UP!</button>
 
 <script>
 //Get the button
