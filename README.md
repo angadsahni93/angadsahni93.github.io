@@ -4,12 +4,14 @@
 <br>
 <br>
 
-### [Curriculum Vitae](https://angadsahni93.github.io/pdfs/CV.pdf)
+<h1><a href="https://angadsahni93.github.io/pdfs/CV.pdf" target="blank_">Curriculum Vitae</a></h1>
+
 **Email:** <a href= "mailto: a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a> 
 <br>
 <br>
 Neuroscience PhD student,<br>
-[Neuroscience of Reward Group (NRG)](https://www.nrg-lab.co.uk/),<br> 
+<a href="https://www.nrg-lab.co.uk/" target="blank_">Neuroscience of Reward Group (NRG)</a>,<br> 
+School of Psychology & Clinical Language Sciences (SPCLS),<br>
 University of Reading.<br>
 **Started:** September, 2021 <br>
 **Completed:** - 
@@ -20,9 +22,8 @@ Skip to my research currency: [Publications](README.md#publications).<br>I assur
 <br>
 
 ## About Me
-**Under construction**.
 
-![](https://c.tenor.com/v74OLsf4a7UAAAAM/agnes-sorry.gif)
+<h3 align="center">Under construction<br><img src="https://c.tenor.com/v74OLsf4a7UAAAAM/agnes-sorry.gif" style="height:200px"></h3><br>
 
 <p align="center"><img src="imgs/tep_comp.png" style="height:400px"><br><br>
   The Temporal Experience of Pleasure (TEP) cycle by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020953/">Kring and Barch</a> is the bedrock of my PhD on anhedonia.
@@ -42,7 +43,7 @@ Skip to my research currency: [Publications](README.md#publications).<br>I assur
 <br>
 <br>
 
-**[The role of cognitive control in the positive symptoms of psychosis.](https://doi.org/10.1016/j.nicl.2022.103004)** <br>
+<b><a href="https://doi.org/10.1016/j.nicl.2022.103004" target="blank_">The role of cognitive control in the positive symptoms of psychosis.</a></b><br>
 **Authors:** Charlotte M.Horne, Angad Sahni, Sze W.Pang, Lucy D.Vanes, Timea Szentgyorgyi, Bruno Averbeck, Rosalyn J.Moran, Sukhwinder S.Shergill. <br>
 [CSI lab](http://www.csilab.org/), King's College London
 
