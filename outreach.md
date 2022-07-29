@@ -1,10 +1,10 @@
 <h1 align="center"> Outreach </h1>
 
 ## Contents
-1. [Reading Scholars](outreach.md#reading-scholars)<br> - [Presentation](outreach.md#--31st-march-2022-presentation)<br> - [Summer Residential](outreach.md#--5th-7th-july-2022-summer-residential)<br><br>
-2. [St. Joseph's College](outreach.md#st-josephs-college)<br> - [Presentation](outreach.md#--30th-june-2022-presentation)<br><br>
-3. [Bulmershe School: Gold Standard Dataset](outreach.md#bulmershe-school)<br> - [Presentation](outreach.md#--13th-july-2022-presentation)<br><br>
-4. [Psychology Taster Session](outreach.md#university-psychology-taster-session)<br> - [Presentation](outreach.md#--28th-july-2022-presentation)<br><br>
+1. Reading Scholars<br> - [Presentation](outreach.md#--31st-march-2022-presentation)<br> - [Summer Residential](outreach.md#--5th-7th-july-2022-summer-residential)<br><br>
+2. St. Joseph's College<br> - [Presentation](outreach.md#--30th-june-2022-presentation)<br><br>
+3. Bulmershe School: Gold Standard Dataset<br> - [Presentation](outreach.md#--13th-july-2022-presentation)<br><br>
+4. Psychology Taster Session<br> - [Presentation](outreach.md#--28th-july-2022-presentation)<br><br>
 
 
 ## Reading Scholars
