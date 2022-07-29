@@ -1,14 +1,14 @@
 <h1 align="center"> Experience Sampling Methodology (ESM) Study </h1>
 
 ## Contents
-1. [Design](esm1.md#design)<br> - [Background](esm1.md#background)<br> - [NRG's Modifications](esm1.md#nrgs-modifications)<br><br>
-2. [Recruitment](esm1.md#recruitment)<br> - [Strategy](esm1.md#strategy)<br> - [Issues & Solutions](esm1.md#issues--solutions)<br><br>
+1. Design<br> - [Background](esm1.md#background)<br> - [NRG's Modifications](esm1.md#nrgs-modifications)<br><br>
+2. Recruitment<br> - [Strategy](esm1.md#strategy)<br> - [Issues & Solutions](esm1.md#issues--solutions)<br><br>
 
 ## Design
 #### Background
-Our study is a replication of the [Edwards et al. (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6294730/) paper. It investigates the relationship between anticipatory and consummatory pleasure in the **real world**. Answering short questionnaires pertaining to said topics during the day means the responses are **ecologically valid**. This is a novel and exciting development in research as it helps us examine how clinical symptoms manifest themselves in the **processing** of the real world! When has this ever been done before?!
+Our study is a replication of the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6294730/" target="blank_">Edwards et al. (2018)</a> paper. It investigates the relationship between anticipatory and consummatory pleasure in the **real world**. Answering short questionnaires pertaining to said topics during the day means the responses are **ecologically valid**. This is a novel and exciting development in research as it helps us examine how clinical symptoms manifest themselves in the **processing** of the real world! When has this ever been done before?!
 
-The group conducted their study in schizophrenic and healthy participants, where both groups answered short questionnaires that "beeped" **7 times a day, for 6 days**, on a [PsyMate](https://www.psymate.eu/) device. The questions are shown in Figure 1. 
+The group conducted their study in schizophrenic and healthy participants, where both groups answered short questionnaires that "beeped" **7 times a day, for 6 days**, on a <a href="https://www.psymate.eu/" target="blank_">PsyMate</a> device. The questions are shown in Figure 1. 
 <br>
 <br>
 <br>
@@ -23,7 +23,7 @@ All of the other questions were also answered using a 1-7 Likert scale, with the
 Lastly, the **gap between beeps** was **pseudo-randomised** to be at least 45 minutes apart. 
 <br>
 <br>
-This questionnaire design captures certain elements of the Temporal Experience of Pleasure (TEP) cycle by [Kring and Barch (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020953/) (Figure 2).
+This questionnaire design captures certain elements of the Temporal Experience of Pleasure (TEP) cycle by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020953/" target="blank_">Kring and Barch (2015)</a> (Figure 2).
 <br>
 <br>
 <p align="center"><img src="imgs/tep_esm.png" style="height:400px"><br><br>
@@ -41,11 +41,11 @@ This questionnaire design captures certain elements of the Temporal Experience o
 
 ## Recruitment
 #### Strategy
-The ESM study's instructions page: [https://nrg-hub.github.io/SMARTPHONE_Study/](https://nrg-hub.github.io/SMARTPHONE_Study/)
+The ESM study's instructions page: <a href="https://nrg-hub.github.io/SMARTPHONE_Study/" target="blank_">SMARTPHONE_Study</a>
 
 During the [Reading Scholars Summer Residential](https://angadsahni93.github.io/outreach.html#--5th-7th-july-2022-summer-residential), me and my MSc student (Tarun Vermani) gave talks. Tarun spoke about the ESM study to the adolescent cohort after the poster presentations and encouraged them sign-up. He humanised the research, in that he stressed that the research will help to deal with the uniquely adolescent anxieties that they suffer from. I was very fortunate to have him on-board because this is a skill that I lack. For my part, I stressed the fact that this will reflect well on their personal statements, as they will be applying for universities from September '22. These efforts lead to **around 12** sign-ups as I asked those interested can give me their email addresses. 
 <br>
-I used the same strategy in the [Bulmershe School's talk](https://angadsahni93.github.io/outreach.html#bulmershe-school). Here, I discussed, as I had previously done in the [St. Joseph's College talk](https://angadsahni93.github.io/outreach.html#st-josephs-college), that I would like to develop a [Youth Advisory Group](https://angadsahni93.github.io/yga.html), involvement in which would also look good on their personal statements. More details given on the page.  
+I used the same strategy in the [Bulmershe School's talk](https://angadsahni93.github.io/outreach.html#bulmershe-school). Here, I discussed, as I had previously done in the [St. Joseph's College talk](https://angadsahni93.github.io/outreach.html#st-josephs-college), that I would like to develop a [Youth Advisory Group](https://angadsahni93.github.io/yag.html), involvement in which would also look good on their personal statements. More details given on the page.  
 <br>
 While the above methods gave us some participants, the most were **recruited by Tarun**. He plans to stay in contact with the NRG after he finishes his MSc in September 2022, and to continue to recruit adolescents for this study. This strategy is **<u>ideal</u>** for **two reasons**:<br>
 1. A continuous, steady flow of participants coming in.
