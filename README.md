@@ -1,6 +1,6 @@
 <h1 align="center"> Home </h1><br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg-logo.jpg" style="height:100px"></img><br><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p>
+<p align="center"><img src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg-logo.jpg" style="height:150px"><br><br><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p>
 <br>
 <br>
 
