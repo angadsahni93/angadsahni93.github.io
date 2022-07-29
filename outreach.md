@@ -16,7 +16,7 @@ I used the opportunity of giving talks to the 2021/22 cohort of scholars to gain
 ### - 31st March 2022: Presentation.
 I gave an hour-long on-campus presentation, outlining the two studies that I am running, the aims of the NRG lab and how the students (~30) could get involved.
 <br>
-<a href="" target="blank_"></a>
+
 Regarding the lattermost point, I asked them to fill out an online survey which collected self-reported clinical data, containing the scales: <a href="https://www.ismanet.org/doctoryourspirit/pdfs/Beck-Depression-Inventory-BDI.pdf" target="blank_">BDI</a>, <a href="https://devepi.duhs.duke.edu/files/2018/03/MFQ-Adult-Self-Report-Long.pdf" target="blank_">MFQ</a>, <a href="https://psycnet.apa.org/record/2021-31031-001" target="blank_">ASA</a>, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957191/" target="blank_">SHAPS</a>, <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.8517&rep=rep1&type=pdf" target="blank_">TEPS</a> and <a href="https://oml.eular.org/sysModules/obxOML/docs/id_150/State-Trait-Anxiety-Inventory.pdf" target="blank_">STAI-trait anxiety scale</a>. These were collected **prior** to the presentation, because the plan was to get them to do the task during the 2-hour evening session. 
 <br>
 However, I cancelled it because Prof. McCabe's previous experience showed that participants start talking to each other a few trials into the task. Therefore, I sent links to the task and unique identifying numbers to the scholars via email, after the presentation, so they may complete it in their own time.
