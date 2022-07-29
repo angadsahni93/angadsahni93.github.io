@@ -114,11 +114,8 @@ a {
 }
 
 h4 a:hover, h4 a:focus {
+  color: #7FFFD4;
   text-decoration: underline overline;
-}
-
-h4 a:hover {
-    color: #7FFFD4;
 }
 
 a:hover, body a:focus {
