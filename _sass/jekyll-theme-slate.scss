@@ -129,11 +129,8 @@ h4 a:hover, h4 a:focus {
 
 h4 a:active {
   color: #FFFF66;
-  text-decoration: underline overline;
-} 
-
-h4 a:visited {
-  color: #FFFF66;
+  text-decoration: line-through underline;
+  text-decoration-style: dashed;
 } 
 
 footer a {
