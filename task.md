@@ -1,14 +1,14 @@
 <h1 align="center"> Reward vs. Effort Learning Task </h1>
 
 ## Contents
-1. [Design](task.md#design)<br> - [Background](task.md#background)<br> - [NRG's Modifications](task.md#nrgs-task-modifications)<br><br>
-2. [Recruitment](task.md#recruitment)<br> - [Strategy](task.md#strategy)<br><br>
-3. [Analyses](task.md#analyses)<br><br>
+1. Design<br> - [Background](task.md#background)<br> - [NRG's Modifications](task.md#nrgs-task-modifications)<br><br>
+2. Recruitment<br> - [Strategy](task.md#strategy)<br><br>
+3. Analyses<br><br>
 
 
 ## Design
 #### Background
-A probabilistic task containing both effort and reward elements had been developed by [Skvortsova et al. (2014)](https://doi.org/10.1523/JNEUROSCI.1350-14.2014).
+A probabilistic task containing both effort and reward elements had been developed by <a href="https://doi.org/10.1523/JNEUROSCI.1350-14.2014" target="blank_">Skvortsova et al. (2014)</a>.
 <br>
 <br>
 <div style="border-style: dotted">
@@ -55,7 +55,7 @@ For example, both shapes may lead to the **high effort** but only the **left** o
 Initially, the strategy involved going to schools, giving talks (as discussed in [Outreach](outreach.md#contents)) and getting data for the task in exchange.
 <br>
 <br>
-But as the summer holidays (2022) have come around, online recruitment is all that is available. For this, I have created an online page ([TASK_Study](https://nrg-hub.github.io/TASK_Study/)) that **briefly** discusses the task, giving the instructions contained within the task already. I ensured I gave the same instructions in my talks too. 
+But as the summer holidays (2022) have come around, online recruitment is all that is available. For this, I have created an online page (<a href="https://nrg-hub.github.io/TASK_Study/" target="blank_">TASK_Study</a>) that **briefly** discusses the task, giving the instructions contained within the task already. I ensured I gave the same instructions in my talks too. 
 
 <br>
 <br>
