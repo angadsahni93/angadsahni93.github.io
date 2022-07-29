@@ -4,7 +4,7 @@
 1. [Reading Scholars](outreach.md#reading-scholars)<br> - [Presentation](outreach.md#--31st-march-2022-presentation)<br> - [Summer Residential](outreach.md#--5th-7th-july-2022-summer-residential)<br><br>
 2. [St. Joseph's College](outreach.md#st-josephs-college)<br> - [Presentation](outreach.md#--30th-june-2022-presentation)<br><br>
 3. [Bulmershe School: Gold Standard Dataset](outreach.md#bulmershe-school)<br> - [Presentation](outreach.md#--13th-july-2022-presentation)<br><br>
-4. [Psychology Taster Session](outreach.md#university-psychology-taster-session)<br><br>
+4. [Psychology Taster Session](outreach.md#university-psychology-taster-session)<br> - [Presentation](outreach.md#--28th-july-2022-presentation)<br><br>
 
 
 ## Reading Scholars
@@ -56,7 +56,7 @@ This too was a bad idea. I had hoped to gain 30(!) participants' data, which wou
 <br>
 
 ## University Psychology Taster Session
-
+### - 28th July 2022: Presentation.
 
 
 <br>
