@@ -113,13 +113,18 @@ a {
   -ms-transition: text-shadow 0.5s ease;
 }
 
+a:hover, body a:focus {
+  text-decoration: underline;
+}
+
+h4 a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
 h4 a:hover, h4 a:focus {
   color: #7FFFD4;
   text-decoration: underline overline;
-}
-
-a:hover, body a:focus {
-  text-decoration: underline;
 }
 
 footer a {
