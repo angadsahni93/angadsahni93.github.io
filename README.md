@@ -26,7 +26,7 @@ Skip to my research currency: [Publications](README.md#publications).<br>I assur
 <h3 align="center">Under construction<br><img src="https://c.tenor.com/v74OLsf4a7UAAAAM/agnes-sorry.gif" style="height:200px"></h3><br>
 
 <p align="center"><img src="imgs/tep_comp.png" style="height:400px"><br><br>
-  The Temporal Experience of Pleasure (TEP) cycle by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020953/">Kring and Barch</a> is the bedrock of my PhD on anhedonia.
+  The Temporal Experience of Pleasure (TEP) cycle by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020953/" target="blank_">Kring and Barch</a> is the bedrock of my PhD looking at anhedonia.
   </p>
 
 <!-- My first degree was an integrated-MSc in Neuroscience from UCL. -->
