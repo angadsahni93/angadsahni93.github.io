@@ -113,8 +113,12 @@ a {
   -ms-transition: text-shadow 0.5s ease;
 }
 
-a:hover, a:focus {
+h4 a:hover, h4 a:focus {
   text-decoration: underline overline;
+}
+
+a:hover, body a:focus {
+  text-decoration: underline;
 }
 
 footer a {
