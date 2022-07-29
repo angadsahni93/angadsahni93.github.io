@@ -39,13 +39,13 @@ Skip to my research currency: [Publications](README.md#publications).<br>I assur
 ### 2022
 Deterioration in cognitive control underlying development of treatment resistance in early psychosis.<br>
 **Authors:** Charlotte M Horne, Angad Sahni, Sze W Pang, Lucy D Vanes, Timea Szentgyorgyi, Bruno Averbeck, Rosalyn J Moran, Sukhwinder S Shergill.<br>
-[CSI lab](http://www.csilab.org/); submitted for publication
+CSI lab; submitted for publication
 <br>
 <br>
 
 <a href="https://doi.org/10.1016/j.nicl.2022.103004" target="blank_">The role of cognitive control in the positive symptoms of psychosis.</a><br>
 **Authors:** Charlotte M.Horne, Angad Sahni, Sze W.Pang, Lucy D.Vanes, Timea Szentgyorgyi, Bruno Averbeck, Rosalyn J.Moran, Sukhwinder S.Shergill. <br>
-[CSI lab](http://www.csilab.org/), King's College London
+<a href="http://www.csilab.org/" target="blank_">CSI lab</a>, King's College London
 
 
 <br>  
@@ -55,54 +55,3 @@ Deterioration in cognitive control underlying development of treatment resistanc
 <br>  
 <br>  
 
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-}
-
-#myTtn {
-  display: none;
-  position: fixed;
-  bottom: 100px;
-  right: 30px;
-  z-index: 99;
-  font-size: 16px;
-  border: none;
-  outline: none;
-  background-color: green;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
-}
-
-#myTtn:hover {
-  background-color: white;
-  color: green;
-}
-</style>
-
-<button onclick="topFunction()" id="myTtn" title="Survey">SIGN ME<br>UP!</button>
-
-<script>
-//Get the button
-var mybutton = document.getElementById("myTtn");
-
-// When the user scrolls down 100px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 100;
-  document.documentElement.scrollTop = 100;
-}
-</script>
