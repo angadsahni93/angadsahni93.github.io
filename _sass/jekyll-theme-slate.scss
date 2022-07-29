@@ -127,6 +127,11 @@ h4 a:hover, h4 a:focus {
   text-decoration: underline overline;
 }
 
+h4 a:active {
+  color: #FFFF66;
+  text-decoration: underline;
+} 
+
 footer a {
   color: #F2F2F2;
   text-decoration: underline;
