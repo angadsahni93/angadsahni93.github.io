@@ -2,7 +2,8 @@
 
 ## Contents
 1. Design<br> - [Background](esm1.md#background)<br><br>
-2. Recruitment<br> - [Strategy](esm1.md#strategy)<br> - [Issues & Solutions](esm1.md#issues--solutions)<br><br>
+2. Recruitment<br> - [Strategy](esm1.md#strategy)<br><br>
+3. [Issues & Solutions](esm1.md#issues--solutions)<br><br>
 
 ## Design
 #### Background
@@ -56,7 +57,8 @@ While the above methods gave us some participants, the most were **recruited by 
 This gives **both** real world and computational data for most of our recruited participants, laying the foundation for a **third study**.
 <br>
 <br>
-#### Issues & Solutions
+## Issues & Solutions
+
 
 
 <br>
