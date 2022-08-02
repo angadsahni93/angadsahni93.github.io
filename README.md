@@ -44,7 +44,7 @@ CSI lab; submitted for publication
 <br>
 <br>
 
-<a href="https://doi.org/10.1016/j.nicl.2022.103004" target="blank_">The role of cognitive control in the positive symptoms of psychosis.</a><br>
+**<a href="https://doi.org/10.1016/j.nicl.2022.103004" target="blank_">The role of cognitive control in the positive symptoms of psychosis.</a>** <br>
 **Authors:** Charlotte M.Horne, Angad Sahni, Sze W.Pang, Lucy D.Vanes, Timea Szentgyorgyi, Bruno Averbeck, Rosalyn J.Moran, Sukhwinder S.Shergill. <br>
 <a href="http://www.csilab.org/" target="blank_">CSI lab</a>, King's College London
 
