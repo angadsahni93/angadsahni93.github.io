@@ -1,11 +1,11 @@
 <h1 align="center"> Experience Sampling Methodology (ESM) Study </h1>
 
 ## Contents
-1. Design<br> - [Background & Critique](esm1.md#background--critique)<br><br>
+1. Design<br> - [Background](esm1.md#background)<br><br>
 2. Recruitment<br> - [Strategy](esm1.md#strategy)<br> - [Issues & Solutions](esm1.md#issues--solutions)<br><br>
 
 ## Design
-#### Background & Critique
+#### Background
 Our study is a replication of the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6294730/" target="blank_">Edwards et al. (2018)</a> paper. It investigates the relationship between anticipatory and consummatory pleasure in the **real world**. Answering short questionnaires pertaining to said topics during the day means the responses are **ecologically valid**. This is a novel and exciting development in research as it helps us examine how clinical symptoms manifest themselves in the **processing** of the real world! When has this ever been done before?!
 
 The group conducted their study in schizophrenic and healthy participants, where both groups answered short questionnaires that "beeped" **7 times a day, for 6 days**, on a <a href="https://www.psymate.eu/" target="blank_">PsyMate</a> device. The questions are shown in Figure 1. 
@@ -32,7 +32,8 @@ This questionnaire design captures certain elements of the Temporal Experience o
 <br>
 <br>
 
-The **effort exerted** cannot be determined using ESM as only a subjective reponse from the participants would be a possible measure. However, a **proxy** measure of **learning** could come from time-lagged regression analysis (Figure 3). Simply put, the data at one beep is the predictor, while the data at the **immediately proceeding** beep is the outcome. If we take the **consummatory** pleasure data at **t0** as the predictor and **anticipatory** pleasure data at **t1** as the outcome, we can simulate the 'consume' to 'anticipate' section of the the TEP cycle (Figure 2) and thus "encapsulate" learning.  
+The **effort exerted** can't be objectively determined using ESM, as only a subjective reponse from the participants would be a possible measure. 
+<!--However, a proxy measure of learning could come from time-lagged regression analysis (Figure 3). Simply put, the data at one beep is the predictor, while the data at the immediately proceeding beep is the outcome. If we take the consummatory pleasure data at t0 as the predictor and anticipatory pleasure data at t1 as the outcome, we can simulate the ‘consume’ to ‘anticipate’ section of the the TEP cycle (Figure 2) and thus “encapsulate” learning.-->
 <br>
 <br>
 <p align="center"><img src="imgs/time-lag.jpg" style="height:220px"><br><br>
