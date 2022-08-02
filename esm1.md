@@ -5,7 +5,7 @@
 2. Recruitment<br> - [Strategy](esm1.md#strategy)<br> - [Issues & Solutions](esm1.md#issues--solutions)<br><br>
 
 ## Design
-#### Background
+#### Background & Critique
 Our study is a replication of the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6294730/" target="blank_">Edwards et al. (2018)</a> paper. It investigates the relationship between anticipatory and consummatory pleasure in the **real world**. Answering short questionnaires pertaining to said topics during the day means the responses are **ecologically valid**. This is a novel and exciting development in research as it helps us examine how clinical symptoms manifest themselves in the **processing** of the real world! When has this ever been done before?!
 
 The group conducted their study in schizophrenic and healthy participants, where both groups answered short questionnaires that "beeped" **7 times a day, for 6 days**, on a <a href="https://www.psymate.eu/" target="blank_">PsyMate</a> device. The questions are shown in Figure 1. 
@@ -39,9 +39,6 @@ The **effort exerted** cannot be determined using ESM as only a subjective repon
 Figure 3: Time-lagged regression schematic. Each timepoint refers to data collected at each BEEP.</p>
 <br>
 <br>
-
-#### NRG's Modifications
-**Coming soon. Enjoy this for now.**
 
 <p align="center"><img src="https://cdn.dribbble.com/users/1315195/screenshots/3506315/gene.gif" style="height:300px"></p>
 
