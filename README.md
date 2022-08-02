@@ -37,7 +37,8 @@ Skip to my research currency: [Publications](README.md#publications).<br>I assur
 ## Publications
 
 ### 2022
-Deterioration in cognitive control underlying development of treatment resistance in early psychosis.<br>
+
+**Deterioration in cognitive control underlying development of treatment resistance in early psychosis.** <br>
 **Authors:** Charlotte M Horne, Angad Sahni, Sze W Pang, Lucy D Vanes, Timea Szentgyorgyi, Bruno Averbeck, Rosalyn J Moran, Sukhwinder S Shergill.<br>
 CSI lab; submitted for publication
 <br>
