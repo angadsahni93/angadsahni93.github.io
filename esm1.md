@@ -13,7 +13,7 @@ The group conducted their study in schizophrenic and healthy participants, where
 <br>
 <br>
 <p align="center"><img src="imgs/esm_ques.png" style="height:400px"><br><br>
-  Figure 1: Flowchart showing the questionnaire that is repeated 7 times a day for 6 days. Referred to as the BEEP questionnaires, as the reminders were labelled beeps.</p>
+  Figure 1: Flowchart showing the questionnaire that is repeated 7 times a day for 6 days.<br>Referred to as the BEEP questionnaires, as the reminders were labelled beeps.</p>
 <br>
 <br>
 
@@ -24,10 +24,19 @@ Lastly, the **gap between beeps** was **pseudo-randomised** to be at least 45 mi
 <br>
 <br>
 This questionnaire design captures certain elements of the Temporal Experience of Pleasure (TEP) cycle by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020953/" target="blank_">Kring and Barch (2015)</a> (Figure 2).
+
 <br>
 <br>
 <p align="center"><img src="imgs/tep_esm.png" style="height:400px"><br><br>
   Figure 2: TEP cycle highlighting the elements the Edwards et al. (2018) study captures.</p>
+<br>
+<br>
+
+The **effort exerted** cannot be determined using ESM as only a subjective reponse from the participants would be a possible measure. However, a **proxy** measure of **learning** could come from time-lagged regression analysis (Figure 3). The Edwards group 
+<br>
+<br>
+<p align="center"><img src="imgs/time-lag.jpg" style="height:220px"><br><br>
+Figure 3: Time-lagged regression schematic. Each timepoint refers to data collected at each BEEP.</p>
 <br>
 <br>
 
