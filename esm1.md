@@ -8,7 +8,7 @@
 #### Background
 Our study is a replication of the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6294730/" target="blank_">Edwards et al. (2018)</a> paper. It investigates the relationship between anticipatory and consummatory pleasure in the **real world**. Answering short questionnaires pertaining to said topics during the day means the responses are **ecologically valid**. This is a novel and exciting development in research as it helps us examine how clinical symptoms manifest themselves in the **processing** of the real world! When has this ever been done before?!
 
-The group conducted their study in schizophrenic and healthy participants, where both groups answered short questionnaires that "beeped" **7 times a day, for 6 days**, on a <a href="https://www.psymate.eu/" target="blank_">PsyMate</a> device. The questions are shown in Figure 1. 
+The group conducted their study in schizophrenic and healthy participants, where both groups answered short questionnaires that "beeped" **7 times a day for 6 days**, on a <a href="https://www.psymate.eu/" target="blank_">PsyMate</a> device. The questions are shown in Figure 1. 
 <br>
 <br>
 <br>
