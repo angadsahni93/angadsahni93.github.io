@@ -41,11 +41,6 @@ Figure 3: Time-lagged regression schematic. Each timepoint refers to data collec
 <br>
 <br>
 
-<p align="center"><img src="https://cdn.dribbble.com/users/1315195/screenshots/3506315/gene.gif" style="height:300px"></p>
-
-<br>
-<br>
-
 ## Recruitment
 #### Strategy
 The ESM study's instructions page: <a href="https://nrg-hub.github.io/SMARTPHONE_Study/" target="blank_">SMARTPHONE_Study</a>
