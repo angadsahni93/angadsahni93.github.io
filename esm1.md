@@ -1,7 +1,7 @@
 <h1 align="center"> Experience Sampling Methodology (ESM) Study </h1>
 
 ## Contents
-1. Design<br> - [Background](esm1.md#background)<br> - [NRG's Modifications](esm1.md#nrgs-modifications)<br><br>
+1. Design<br> - [Background & Critique](esm1.md#background--critique)<br><br>
 2. Recruitment<br> - [Strategy](esm1.md#strategy)<br> - [Issues & Solutions](esm1.md#issues--solutions)<br><br>
 
 ## Design
