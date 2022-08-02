@@ -32,7 +32,7 @@ This questionnaire design captures certain elements of the Temporal Experience o
 <br>
 <br>
 
-The **effort exerted** cannot be determined using ESM as only a subjective reponse from the participants would be a possible measure. However, a **proxy** measure of **learning** could come from time-lagged regression analysis (Figure 3). The Edwards group 
+The **effort exerted** cannot be determined using ESM as only a subjective reponse from the participants would be a possible measure. However, a **proxy** measure of **learning** could come from time-lagged regression analysis (Figure 3). Simply put, the data at one beep is the predictor, while the data at the **immediately proceeding** beep is the outcome. If we take the **consummatory** pleasure data at **t0** as the predictor and **anticipatory** pleasure data at **t1** as the outcome, we can simulate the 'consume' to 'anticipate' section of the the TEP cycle (Figure 2) and thus encapsulate **learning**.  
 <br>
 <br>
 <p align="center"><img src="imgs/time-lag.jpg" style="height:220px"><br><br>
