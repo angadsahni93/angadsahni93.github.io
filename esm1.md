@@ -3,7 +3,7 @@
 ## Contents
 1. Design<br> - [Background](esm1.md#background)<br><br>
 2. Recruitment<br> - [Strategy](esm1.md#strategy)<br><br>
-3. [Issues & Solutions](esm1.md#issues--solutions)<br><br>
+3. [Issues](esm1.md#issues)<br><br>
 
 ## Design
 #### Background
@@ -52,13 +52,12 @@ I used the same strategy in the [Bulmershe School's talk](https://angadsahni93.g
 <br>
 While the above methods gave us some participants, the most were **recruited by Tarun**. He plans to stay in contact with the NRG after he finishes his MSc in September 2022, and to continue to recruit adolescents for this study. This strategy is **<u>ideal</u>** for **two reasons**:<br>
 1. A continuous, steady flow of participants coming in.
-2. If they agree to participate in a 6-day study, getting them to then do an **online task and survey** (~1hour) would be easy.
+2. If they agree to participate in a 6-day study, getting them to then do an **online task and survey** (~1hour) would (hopefully) be easy.
 
-This gives **both** real world and computational data for most of our recruited participants, laying the foundation for a **third study**.
+This gives us **both** real world and computational data for most of our recruited participants, laying the foundation for a **third study**.
 <br>
 <br>
-## Issues & Solutions
-
+## Issues
 
 
 <br>
